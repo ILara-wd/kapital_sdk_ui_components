@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="colorCaption">#455563</color>
+    <color name="gray600">#757575</color>
+    <color name="yellow800">#A88C00</color>
+
+    <color name="dark_primary">#FF0000</color>
+    <color name="light_primary">#FF8888</color>
+
+
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#000000</color>
+    <color name="colorBottomBar">#2B2B2B</color>
+    <color name="color_bg_panel">#121212</color>
+    <color name="color_bg_wallet">#333333</color>
+    <color name="colorBottomBarPressed">#B2FF9E</color>
+    <color name="colorBottomBarSelected">#CBFF91</color>
+    <color name="colorBottomBarUnselected">#FFFFFF</color>
+    <color name="colorSombra">#D2D2D4</color>
+    <color name="colorFondo">#F7F7F7</color>
+    <color name="k_white">#FFFFFF</color>
+    <color name="k_white_60">#99FFFFFF</color>
+    <color name="k_black_shadow">#33000000</color>
+    <color name="k_black">#000000</color>
+    <color name="k_black_low">#212121</color>
+    <color name="k_gray_text">#EBEBF5</color>
+    <color name="k_gray_disabled">#4DEBEBF5</color>
+    <color name="k_gray">#E6E6E6</color>
+    <color name="k_gray_2">#4D4D4D</color>
+    <color name="k_gray_3">#B1B1B1</color>
+    <color name="k_gray_4">#808080</color>
+    <color name="k_gray_5">#4F4F4F</color>
+    <color name="k_gray_6">#60EBEBF5</color>
+    <color name="k_gray_7">#30EBEBF5</color>
+    <color name="k_gray_8">#303C3C43</color>
+    <color name="k_gray_9">#603C3C43</color>
+    <color name="k_green">#CBFF91</color>
+    <color name="k_green_2">#A2D63F</color>
+    <color name="k_green_3">#32D74B</color>
+    <color name="k_darkalpha">#60000000</color>
+    <color name="k_dark_home">#191919</color>
+    <color name="color_red">#C63917</color>
+    <color name="k_dark_transfer_success">#222222</color>
+    <color name="go_to_detail">#707070</color>
+    <color name="ver_detalle">#99EBEBF5</color>
+    <color name="bg_transferir_green1">#C8EF95</color>
+    <color name="link">#007AFF</color>
+    <color name="violet">#8C78FE</color>
+    <color name="color_gray">#8491A2</color>
+    <color name="color_orange">#FDC41D</color>
+
+</resources>

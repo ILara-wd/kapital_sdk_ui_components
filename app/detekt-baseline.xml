@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <CurrentIssues>
+   <ID>LongMethod:KapitalDropDownList.kt$@Suppress("FunctionNaming", "LongParameterList") @Composable fun &lt;T&gt; KapitalDropDownList( modifier: Modifier = Modifier, label: String, list: List&lt;T&gt;, mapper: (T) -&gt; String = { it.toString() }, selectedObject: (T) -&gt; Unit, placeHolder: String = "", isError: Boolean = false, messageError: String? = null, value: T?, onClick: () -&gt; Unit = {}, captureText: Boolean = false, capturedText: (String) -&gt; Unit = {}, )</ID>
+    <ID>LongParameterList:KapitalPdfViewer.kt$( @RawRes pdfResId: Int, modifier: Modifier = Modifier, backgroundColor: Color = White, pageColor: Color = White, listDirection: PdfListDirection = PdfListDirection.VERTICAL, arrangement: Arrangement.HorizontalOrVertical = Arrangement.spacedBy(16.dp), loadingListener: ( isLoading: Boolean, currentPage: Int?, maxPage: Int?, ) -&gt; Unit = { _, _, _ -&gt; } )</ID>
+    <ID>LongParameterList:KapitalPdfViewer.kt$( pdfStream: InputStream, modifier: Modifier = Modifier, backgroundColor: Color = FunGreyDisabled, listDirection: PdfListDirection = PdfListDirection.VERTICAL, arrangement: Arrangement.HorizontalOrVertical = Arrangement.spacedBy(16.dp), loadingListener: ( isLoading: Boolean, currentPage: Int?, maxPage: Int?, ) -&gt; Unit = { _, _, _ -&gt; }, page: @Composable (LazyListState, ImageBitmap) -&gt; Unit )</ID>
+    <ID>LongParameterList:KapitalPdfViewer.kt$( pdfStream: InputStream, modifier: Modifier = Modifier, backgroundColor: Color = FunGreyDisabled, pageColor: Color = Color.White, listDirection: PdfListDirection = PdfListDirection.VERTICAL, arrangement: Arrangement.HorizontalOrVertical = Arrangement.spacedBy(16.dp), loadingListener: ( isLoading: Boolean, currentPage: Int?, maxPage: Int?, ) -&gt; Unit = { _, _, _ -&gt; } )</ID>
+    <ID>LongParameterList:KapitalZoomableImage.kt$( painter: Painter, modifier: Modifier = Modifier, maxScale: Float = 1f, minScale: Float = 3f, isRotation: Boolean = false, isZoomable: Boolean = true, scrollState: ScrollableState? = null )</ID>
+    <ID>LongParameterList:MainAppScaffold.kt$( modifier: Modifier = Modifier, snackbarHost: @Composable () -&gt; Unit = {}, topBar: @Composable (() -&gt; Unit) = {}, bottomBar: @Composable () -&gt; Unit = {}, floatingActionButton: @Composable (() -&gt; Unit) = {}, backgroundColor: Color = MaterialTheme.colorScheme.background, contentColor: Color = contentColorFor(backgroundColor), content: @Composable (PaddingValues) -&gt; Unit, )</ID>
+    <ID>MaxLineLength:HomeScreen.kt$Text(text = "This is Home Screen $deepLinkData",modifier = Modifier.testTag("dashboardDeeplinkArgument"), color = Color.Blue)</ID>
+    <ID>MaxLineLength:MainActivity.kt$visualTransformation = if (passwordVisible) VisualTransformation.None else PasswordVisualTransformation()</ID>
+    <ID>MaxLineLength:Navigation.kt$Navigation.Errors.Router$"$route?$parameter={$parameter}&amp;$previousParameter={$previousParameter}&amp;$isOnlineParameter={$isOnlineParameter}"</ID>
+    <ID>MemberNameEqualsClassName:Navigation.kt$Navigation.Home$const val home = "home"</ID>
+    <ID>MemberNameEqualsClassName:Navigation.kt$Navigation.Order$const val order = "order"</ID>
+    <ID>MemberNameEqualsClassName:Navigation.kt$Navigation.Profile$const val profile = "profile"</ID>
+    <ID>MemberNameEqualsClassName:Navigation.kt$Navigation.SignUp$const val signup = "signup"</ID>
+    <ID>TopLevelPropertyNaming:DecimalAmountTransformation.kt$private const val decimalSymbol = '.'</ID>
+    <ID>TopLevelPropertyNaming:DecimalAmountTransformation.kt$private const val fractionDigits = 2</ID>
+    <ID>TopLevelPropertyNaming:DecimalAmountTransformation.kt$private const val groupingSymbol = ','</ID>
+    <ID>TopLevelPropertyNaming:HomeNavigation.kt$const val homeNavigationRoute = "home_route"</ID>
+    <ID>TopLevelPropertyNaming:MaskManager.kt$const val mask = "1234 5678 1234 5678"</ID>
+    <ID>TopLevelPropertyNaming:SettingNavigation.kt$const val settingsNavigationRoute = "settings_route"</ID>
+  </CurrentIssues>
+</SmellBaseline>

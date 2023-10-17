@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Kapital</string>
+    <string name="msg_token_fmt">message token %s</string>
+    <string name="jwt_example">eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.eyJ08NCBXjQXoYkFHA-qUre0bFlV6VZWdLCzMyjlK-s0IM6_ciXjHEYdPU9nmlxlZnYUG6CTJew_XB90Vo7bcccK7zLPumWlL4hXphCJvLbqwIxYYGj6rPq33ELgO2w4Q1GmxakHPie9rCe0lxAilk2NWbKWoUQWWsu_Dmf6VSCVOLt_MCSTsk25nNzatzrmF6Z0efRf6vHN61CCnMerFGA4vi-TUiYe-YyntI_GhM2X9GqxUaO-WeZcqrtHhptU1_G8gB0jz9QbsoZljCz9mj2cwuYD5wLlU8y24BbshaIT3NDjA07N81ANkUIk-X9yliQI9NX15KDeT1-n3QF6tg.Co2la90xew50XYFq.0I2_ONz0Z9rZUeKJ7aB8fnQSxT4rwLQO1u5mxPyvyy27yW1qDa3QrKkqwLR5Q19m4DRsn_ShAJbeCPJJUoEALjLnpTgvY_CYqpVeliDtNnTpxah_W9F0-A2jh4uUIe7gborrlwhYTY7GUDPmNQkP62srLFpTmePyvjsEkakeaqfmlAeArWvgBgqEld81Rf7whamd7WmNmZp7WgnqsgWwVRlbmpsS_z-wGhdXDcxl2mwy7ojFlfna52TMOmJ0V_6FG6xMyTjPl3AD2AtZj5zfErbhsDTmo2MQO1W2eyxUyFM4NrIC4NEOfdoj_RXeGNwRy5w8UESAEgxbG_8p4Ccunyt-6b3nJ7QTQPE5eQ_1REVW0Uq_mXxjs2Jp9TiG-vTJ6nicZPerMF-e8YcHifQ87CmWG-SxqixZJpKBaQVSJ3sMiHWvUUViAjvyE6CT7br9m4qd3p8CfklXIpKFRXQVK9TAvpEzRHivwd1wdUTrJXMekgRyBelZpGlajGC2bVlxCZoHmviNCei3DjDVPT-V3pH_W0NVLg4srLzCI4m2niW20ZPBp8Xlbpc-ZuJAvFSQhMFPUgoJeEKGwkrzZyHYr-QcejN2DvMoD1vVnIKexfviDj2c1M8ozUQDMIoArNn1Ztud7imPc8uVnUlvuEuMHt181Wm6NERNH7XcfvyJ_Oj7ttsYeCqXWi_eNOhQmiiw0n7bai2xqAoqWWaRdF_ByfmbcKrmh96-RCjFy_TXprw4npb0kTROz_9wiicWsxvcntx9OihZk1UhveFVfUSok5hopRhT5VycCjLxc9lLxUUA7hGBh0S_MEc9lQ6bFMQGSX7ifxZd9ElUEBECUtMqIbqT1_iODa-qWpsolXx2gleDx0FmVKezI1qZZv4CPDOZTyowr9tSdny1cgRSBU_We18IPqfC1s5MpX0UlRXauE5RTQQZVfI-dBJpr5PJRMaZjaoeQ83XkGOQbg4QTeZyNt471vDL0v-wjVSUCawGltjSXZ-Swu2Ilkuh7ENy6E-KD-dMWHMD7VPRulGITX5-tA1xTUMpgVjGFjhlRKtxEDGZ-gfqN69CNDyxSLLgLZ1grpzJQdi0Ftxf59HJPbW-ccsz2qeTyrBm0HXu0EIGWmL-0X1cfD88N0wDdvk7ZUCg6fmgIVA3AdHQpylTbNKBM64RRz9WG7awk0UGYluX5CVg4MAeG5Fck4SikT6vIu02kJ_fKcVCNjj6lVH2Ee6cTuo0qLOmamVo58zEuhxYSp_JJ98pTeEumdu6lkmVg3kpUVDkbuz3fccUicR8ya9VQ_Mmzsn53l6LCNZ9yKqQMJb1q55JL2j7ptuXMA.vn_R3Sp4iYscpVD0bhbfFw</string>
+    <string name="display_an_educational">display an educational UI explaining to the user the features that will be enabled\nby them granting the POST_NOTIFICATION permission. This UI should provide the user\n\"OK\" and \"No thanks\" buttons. If the user selects \"OK,\" directly request the permission.\nIf the user selects \"No thanks,\" allow the user to continue without notifications.</string>
+    <string name="text_no_notifications">TODO: Inform user that that your app will not show notifications.</string>
+    <string name="text_post_notifications">FCM SDK (and your app) can post notifications.</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+    <string name="text_alert_biometrics">Usar Briometricos</string>
+
+    <string name="logout_description">Log out button</string>
+    <string name="text_alert_title_logout">Por tu seguridad, cerraremos sesión</string>
+    <string name="text_alert_title">¿Estás seguro que quieres cerrar sesión?</string>
+    <string name="text_alert_accept">Aceptar</string>
+    <string name="text_alert_yes">SI, CERRAR SESIÓN</string>
+    <string name="text_alert_back">REGRESAR</string>
+    <string name="faq_extra_question_1">Puedes comunicarte con Kapital por correo electrónico ( </string>
+    <string name="faq_mail">soporte@kapital.mx</string>
+    <string name="faq_extra_question_2"> ) o a través de nuestro Whatsapp ( </string>
+    <string name="tag_whatsapp">Número Kapital</string>
+    <string name="faq_extra_question_3"> ).</string>
+    <string name="faq_no_app_available">No tienes alguna aplicación disponible</string>
+    <string name="required_field">Este campo es necesario</string>
+
+    <string name="content_description">content description</string>
+    <string name="number">Número</string>
+    <string name="invalid_phone_lenght">Éste campo debe ser de 10 dígitos</string>
+
+    <string name="select_category">Todas</string>
+
+    <string name="constant_temp">temp</string>
+    <string name="constant_pdf">pdf</string>
+    <string name="constant_pdfPage">PDFpage</string>
+    <string name="constant_png">png</string>
+    <string name="title_activity_deep_link">DeepLinkActivity</string>
+
+
+</resources>
